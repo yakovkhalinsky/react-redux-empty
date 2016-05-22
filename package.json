@@ -1,6 +1,6 @@
 {
   "name": "react-redux-empty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
     "prod": "NODE_ENV=production webpack"
   },
   "author": "Yakov Khalinsky <yakov@therocketsurgeon.com>",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/yakovkhalinsky/react-redux-empty.git"
+  },
   "devDependencies": {
     "babel-core": "^6.7.6",
     "babel-loader": "^6.2.4",
